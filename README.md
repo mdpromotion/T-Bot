@@ -1,4 +1,4 @@
-# 🎓 TeacherBot — Открытый помощник для студентов [![Open Source](https://badgen.net/badge/icon/opensource?icon=github&label)](https://github.com/mpromotion/T-Bot)
+# 🎓 TeacherBot — Открытый помощник для студентов [![Open Source](https://badgen.net/badge/icon/opensource?icon=github&label)](https://github.com/mdpromotion/T-Bot)
 
 **Бесплатный, удобный и открытый** — всё, что нужно для учебы и отдыха, в одном Telegram-боте.  
 
@@ -23,12 +23,12 @@
 ---
 
 ## 🛠 **Для разработчиков**  
-[![GitHub](https://img.shields.io/github/license/mpromotion/T-Bot?color=blue)](https://github.com/mpromotion/T-Bot)  
+[![GitHub](https://img.shields.io/github/license/mpromotion/T-Bot?color=blue)](https://github.com/mdpromotion/T-Bot)  
 Проект полностью **opensource** — добавляй фичи, исправляй баги или создавай свою версию!  
 
 ### Быстрый старт:
 1. Клонируй репозиторий:  
-   `git clone https://github.com/mpromotion/T-Bot.git`  
+   `git clone https://github.com/mdpromotion/T-Bot.git`  
 2. Настрой окружение (см. `docs.txt`).  
 3. Запусти бота:
    `python main.py`
@@ -44,6 +44,6 @@
 
 ## 📥 **Начни сейчас!**  
 Просто **скачай** и запусти — никакой подписки, рекламы или скрытых платежей.  
-Ваш вклад приветствуется: [Сообщи об ошибке](https://github.com/mpromotion/T-Bot/issues) | [Добавь фичу](https://github.com/mpromotion/T-Bot/pulls)  
+Ваш вклад приветствуется: [Сообщи об ошибке](https://github.com/mdpromotion/T-Bot/issues) | [Добавь фичу](https://github.com/mdpromotion/T-Bot/pulls)  
 
 **Учись. Играй. Совершенствуйся.**  
